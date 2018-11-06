@@ -1,8 +1,3 @@
 # bloc_movie_searcher
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+An example of how to use bloc on http requests
